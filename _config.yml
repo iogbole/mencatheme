@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Meredith Cook
   author__bio: Grant writer for Southeastern Baptist Theological Seminary
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/headshot.png'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
