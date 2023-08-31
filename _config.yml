@@ -13,14 +13,12 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Meredith Cook
   author__bio: Grant writer for Southeastern Baptist Theological Seminary
-  author__avatar: '/images/headshot.png'
+  author__avatar: 'meredithcook/menca/images/headshot.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
 - {icon: "ion-logo-mail", link: "mailto:meredithcook@proton.me"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+
 
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
@@ -32,7 +30,7 @@ social:
 hero:
   hero__title: Welcome! I’m Meredith Cook.
   hero__description: I'm a mom moonlighting as a writer.
-  hero__image: '/images/headshot.png'
+  hero__image: 'meredithcook/menca/images/easter.jpg'
 
 
 #-------------------------------
