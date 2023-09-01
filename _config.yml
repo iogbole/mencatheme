@@ -16,8 +16,8 @@ author:
   author__avatar: 'images/headshotvintage.png'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
 - {icon: "ion-md-mail", link: "mailto:meredithcook@proton.me"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/meredithcook716/"}
 - {icon: "ion-logo-pinterest", link: "www.pinterest.com/meredithlcook"}
 - {icon: "ion-md-book", link: "https://amzn.to/45wlDh1"}
