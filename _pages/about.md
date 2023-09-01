@@ -16,11 +16,3 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 
 Thanks for stopping by!
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/102.jpg">
-    <img src="/images/105.jpg">
-    <img src="/images/107.jpg">
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
