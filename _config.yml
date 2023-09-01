@@ -18,6 +18,7 @@ author:
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/meredithcook716"}
 - {icon: "ion-md-mail", link: "mailto:meredithcook@proton.me"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/meredithcook716/"}
 
 
 
@@ -70,7 +71,7 @@ gallery:
 #-------------------------------
 # Contact Settings
 contact:
-  email: mcook@sebts.edu # Add your email for contant form
+  email: meredithcook@proton.me # Add your email for contant form
   description: Menca comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
