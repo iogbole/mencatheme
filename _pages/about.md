@@ -15,7 +15,3 @@ Now, I write mostly on lessons I'm learning about parenting, habit formation, an
 When I'm not supplying my kids with snacks, taking them to the playground, or requesting large sums of money from foundations, I enjoy copious amounts of coffee, hiking with my family, reading, and baking. You can also find me on [Twitter](https://twitter.com/meredithcook716), where I regularly interrupt your timeline with really boring tweets. 
 
 Thanks for stopping by!
-
-<img src="eastervintage.jpeg"
-     alt=
-     style="float: left; margin-right: 10px;" />
