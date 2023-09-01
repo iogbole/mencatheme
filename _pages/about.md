@@ -16,6 +16,6 @@ When I'm not supplying my kids with snacks, taking them to the playground, or re
 
 Thanks for stopping by!
 
-<img src="mclogo.png"
-     alt=logo
+<img src="eastervintage.jpeg"
+     alt=
      style="float: left; margin-right: 10px;" />
