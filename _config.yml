@@ -12,7 +12,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Author Settings
 author:
   author__name: Meredith Cook
-  author__bio: Grant writer for Southeastern Baptist Theological Seminary
+  author__bio: Mom. Grant Writer. Author.
   author__avatar: 'images/footerimage.png'
 
 social:
@@ -30,7 +30,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Welcome! I’m Meredith Cook.
-  hero__description: I'm a mom moonlighting as a writer.
+  hero__description: I'm a stay-at-home mom moonlighting as a writer of grants and children's books.
   hero__image: 'images/headshotvintage.png'
 
 
