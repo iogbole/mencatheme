@@ -51,7 +51,7 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Torrey Pines'
-      url: '/images/istanbulvintage.jpeg'
+      url: '/images/torreypinesvintage.jpeg'
     - alt: 'Big Bend National Park'
       url: '/images/bigbendvintage.jpeg'
     - alt: 'West Virginia'
