@@ -51,23 +51,23 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Torrey Pines'
-      url: '/images/torreypinesvintage.jpeg'
+      url: 'images/torreypinesvintage.jpeg'
     - alt: 'Big Bend National Park'
-      url: '/images/bigbendvintage.jpeg'
-    - alt: 'Sedona'
-      url: '/images/test.png'
+      url: 'images/bigbendvintage.jpeg'
+    - alt: 'West Virginia'
+      url: 'images/westvirginiavintage.png'
     - alt: 'Istanbul'
-      url: '/images/istanbul.jpeg'
+      url: 'images/istanbul.jpeg'
     - alt: 'Tokyo'
-      url: '/images/tokyovintage.jpeg'
+      url: 'images/tokyovintage.jpeg'
     - alt: 'Paris'
-      url: '/images/notredamevintage.jpeg'
+      url: 'images/notredamevintage.jpeg'
     - alt: 'Japan'
-      url: '/images/japanmountainvintage.jpeg'
+      url: 'images/japanmountainvintage.jpeg'
     - alt: 'India'
-      url: '/images/indiavintage'
+      url: 'images/indiavintage'
     - alt: 'Grand Canyon'
-      url: '/images/grandcanyonevintage.jpeg'
+      url: 'images/grandcanyonevintage.jpeg'
 
 
 #-------------------------------
