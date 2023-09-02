@@ -50,10 +50,10 @@ gallery:
   gallery__title: Gallery
   gallery__columns: 3
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/100.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/101.jpg'
+    - alt: 'Torrey Pines'
+      url: '/images/torreypinesvintage.jpeg'
+    - alt: 'Big Bend National Park'
+      url: '/images/bigbendvintage.jpeg'
     - alt: 'Hobby'
       url: '/images/102.jpg'
     - alt: 'Notes'
