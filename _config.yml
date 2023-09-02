@@ -51,13 +51,11 @@ gallery:
   gallery__columns: 3
   gallery__images:
     - alt: 'Torrey Pines'
-      url: '/images/torreypinesvintage.jpeg'
+      url: '/images/istanbulvintage.jpeg'
     - alt: 'Big Bend National Park'
       url: '/images/bigbendvintage.jpeg'
     - alt: 'West Virginia'
       url: '/images/westvirginiavintage.jpeg'
-    - alt: 'Istanbul'
-      url: '/images/instabulvintage.jpeg'
     - alt: 'Tokyo'
       url: '/images/tokyovintage.jpeg'
     - alt: 'Paris'
@@ -68,7 +66,8 @@ gallery:
       url: '/images/indiavintage.jpeg'
     - alt: 'Grand Canyon'
       url: '/images/grandcanyonvintage.jpeg'
-
+    - alt: 'Istanbul'
+      url: '/images/instabulvintage.jpeg'
 
 #-------------------------------
 # Contact Settings
