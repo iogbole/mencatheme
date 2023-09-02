@@ -3,7 +3,7 @@ layout: post
 title: How to Begin the Process of Habit Formation
 date: 2023-7-23
 description: If how we use time is determined primarily by our habits, then how do we start building in good habits that ultimately lead us to use our time wisely for the purpose of loving God, neighbor, and fulfilling the Great Commission?
-image: images/jenga.jpeg # Add image post (optional)
+image: /images/jenga.jpeg # Add image post (optional)
 tags: [habits, time-management]
 ---
 
