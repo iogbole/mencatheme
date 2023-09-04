@@ -47,7 +47,7 @@ mailchimp__button__text: Get a new tip
 #-------------------------------
 # Gallery Footer Section
 gallery:
-  gallery__title: 
+  gallery__title: My Photos
   gallery__columns: 3
   gallery__images:
     - alt: 'Torrey Pines'
