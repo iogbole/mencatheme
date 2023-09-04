@@ -6,7 +6,7 @@ description: Our desire to have people in our home regularly has created a need 
 image: /images/hospitality.jpeg # Add image post (optional)
 tags: [hospitality, home, community]
 ---
-We try to keep an open-door policy in our home. As long as we are home and healthy, we want others to feel free to come over. Our goal is to invite others to come over for dinner every other week or so. Due to my husband's job a seminary professor and advisor for a student group, we also frequently have groups of students over during the school year. 
+We try to keep an open-door policy in our home. As long as we are at home and healthy, we want others to feel free to come over. Our goal is to invite others to come over for dinner every other week or so. Due to my husband's job a seminary professor and advisor for a student group, we also frequently have groups of students over during the school year. 
 
 Of course, this ebbs and flows depending on our schedules and that of others. However, our desire to have people in our home regularly has created a need to always be prepared to do so. I am not a great housekeeper. I don't have the gift of "everything-has-a-place," I hate cleaning, and taking care of two toddlers combined with a full-time job means I'm generally scattered. Knowing these things about myself, I've tried to implement some habits that help me feel prepared to have people over at a moment's notice. 
 
