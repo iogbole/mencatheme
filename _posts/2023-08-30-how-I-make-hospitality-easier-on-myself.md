@@ -46,6 +46,10 @@ This includes mostly things that would be really obvious to some, but are necess
 
 That last one is truly real-life. I don't like it, but it is what it is for this season. I'm not consistent with these habits (it takes me an obscenely long time to regroup after being out of town and we travel fairly often), so I often end up scrambling to clean up anyway. At the end of the day, I try to make the house presentable—not spotless.
 
+## Paper Plates 
+
+I realize this point may alienate some who like to lead a more sustainable life, but for this time and season of our lives, we almost exclusively use paper plates for meals. This applies to just our family and extends to guests. I am not trying to impress anyone with my Ikea dishes, so no matter who comes over, if we are not eating steak, we are eating off paper plates. I also keep giant packages of paper platters, bowls, and plastic utensils for larger groups. It just makes life and hospitality so much easier.
+
 ## Other
 
 Here are a few other random ways I try to make hospitality easier on myself:
